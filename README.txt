@@ -13,3 +13,4 @@ at least three different pieces of data*
 they should get a new, randomized output.*
 
     + Final message cannot be the same as previous loop.
+    + Use math.random to generate random index in array.
